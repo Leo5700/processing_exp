@@ -1,0 +1,17 @@
+{
+"id": 0,
+"species": "Panthera leo",
+"name": "Lion",
+"f": 1.42,
+"a": 1.4,
+
+"_comment": "как доступаться к объектам?...",
+"employees":[
+    {"firstName":"John", "lastName":"Doe"},
+    {"firstName":"Anna", "lastName":"Smith"},
+    {"firstName":"Peter", "lastName":"Jones"}
+]
+
+"_comment_2": "data rules data",
+    
+}
